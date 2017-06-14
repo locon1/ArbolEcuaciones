@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\bin\Debug\ÁrbolDeEcuaciones.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\bin\Debug\ÁrbolDeEcuaciones.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\bin\Debug\ÁrbolDeEcuaciones.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ÁrbolDeEcuaciones\ÁrbolDeEcuaciones\obj\Debug\ÁrbolDeEcuaciones.pdb
